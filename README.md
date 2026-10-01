@@ -40,6 +40,7 @@ English-Club/
 │       └── EC-logo-simple2.eps / .pdf
 └── Ao-CLB/                    # Thiết kế áo đồng phục
     ├── Ao-CLB.png / Ao-CLB.pdf   # Mẫu áo polo đồng phục (mặt trước, mặt sau, tay áo)
+    ├── Render-ao.png              # Ảnh render thực tế của áo
     └── *.cdr                      # File nguồn CorelDRAW (không đưa lên Git)
 ```
 
@@ -105,9 +106,19 @@ Dùng cho không gian nhỏ như ảnh đại diện mạng xã hội, ấn tệ
 
 Mẫu áo polo đồng phục của câu lạc bộ. Mặt trước in logo Đại học Trà Vinh; mặt sau in logo EC kèm dòng chữ nhận diện; tay áo có dải viền đồng phục.
 
+### 3.1 Bản thiết kế
+
 <img src="Ao-CLB/Ao-CLB.png" width="620" alt="Mẫu thiết kế áo polo đồng phục">
 
-### 3.1 Bảng màu CMYK của áo
+Tải bản PDF: [`Ao-CLB/Ao-CLB.pdf`](Ao-CLB/Ao-CLB.pdf)
+
+### 3.2 Ảnh render thực tế
+
+Hình ảnh áo đồng phục đã hoàn thiện, gồm mặt trước, mặt sau và các chi tiết nổi bật.
+
+<img src="Ao-CLB/Render-ao.png" width="620" alt="Ảnh render thực tế áo polo đồng phục">
+
+### 3.3 Bảng màu CMYK của áo
 
 | Màu | Thông số CMYK | Vị trí sử dụng |
 |---|---|---|
@@ -115,8 +126,6 @@ Mẫu áo polo đồng phục của câu lạc bộ. Mặt trước in logo Đ�
 | Xanh ngọc | `cmyk(85%, 20%, 0%, 34%)` | Sọc trang trí |
 | Vàng | `cmyk(0%, 29%, 99%, 2%)` | Nút áo, viền, sọc trang trí |
 | Xám nhạt | `cmyk(1%, 1%, 0%, 8%)` | Nền hoạ tiết chấm bi |
-
-Tải bản PDF: [`Ao-CLB/Ao-CLB.pdf`](Ao-CLB/Ao-CLB.pdf)
 
 ---
 
