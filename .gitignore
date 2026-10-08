@@ -1,0 +1,9 @@
+# CorelDRAW source files (binary, không hiển thị trên GitHub)
+*.cdr
+
+# Hệ điều hành / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
